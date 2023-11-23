@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "1914bc1981e6ceceadb2f6d72455b4e89e04965c"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Light.ttf",
+      "sha1": "6f21894a80049259ef71fcba135218695b41b67a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "8c871991960f520a31635f95be6c346b659e2c8c"
+    },
+    {
+      "path": "assets/images/background.jpg",
+      "sha1": "77fc7b6849b5ebeecac729776e4bc652c7c560db"
+    },
+    {
+      "path": "assets/images/facebook.png",
+      "sha1": "ef9b88a726de6c2beb2b71ee5b8d660200359259"
+    },
+    {
+      "path": "assets/images/google.png",
+      "sha1": "9358a632fe765206d076c18af39c815b3d7dc61f"
+    },
+    {
+      "path": "assets/images/ImagesAssets.js",
+      "sha1": "a73d77364d173227c9fbbcf3d99202468ad46eb7"
+    },
+    {
+      "path": "assets/images/img1.jpg",
+      "sha1": "1b2add2211044c15d4dd5d73876e269d524ad42b"
+    },
+    {
+      "path": "assets/images/img2.jpg",
+      "sha1": "3398599277f354179cec83800fa43f054ec5aa95"
+    },
+    {
+      "path": "assets/images/img3.jpg",
+      "sha1": "afbc54a5e330fa7ef9e240dfbd8ee07ee69a9f01"
+    },
+    {
+      "path": "assets/images/pin.png",
+      "sha1": "ca0c066b762012dcec81fdc81854dafb598354fe"
+    },
+    {
+      "path": "assets/images/sparkle.png",
+      "sha1": "5e92ed909a0a6d148569dfed89edf3c2adba4d5e"
+    }
+  ]
+}
